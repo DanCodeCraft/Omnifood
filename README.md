@@ -1,3 +1,8 @@
+Questlog:
+day 1 - Setup the project in VScode, with minor adjustments and resets.
+day 2 - Hero page done.
+day 3 - 
+
 # Omnifood
 
 ## About Omnifood
