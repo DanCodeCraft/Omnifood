@@ -5,6 +5,7 @@ day 3 - Top nav bar and how it works section done.
         Z pattern.
 day 4 - Menu -> style and hover effect.
 day 5 - Testimonial section
+        Added effects to the images in gallery
 
 # Omnifood
 
