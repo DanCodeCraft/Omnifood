@@ -33,13 +33,17 @@ Letter spacing:
 
 - Shades:
 #cf711f
+#45260a
 
 - Accents:
 
 - Greys: 
-Lighestest grey allowed: #6f6f6f
+
 #333
 #555
+#888
+#6f6f6f
+#767676
 
 --- 05 SHADOWS
 
@@ -120,6 +124,10 @@ strong {
   grid-template-columns: repeat(4, 1fr);
 }
 
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
+}
+
 .grid--center-v {
   align-items: center;
 }
@@ -164,12 +172,10 @@ strong {
 }
 
 /* .btn, */
+.btn,
 .btn:link,
 .btn:visited {
   display: inline-block;
-
-  background-color: #e67e22;
-  color: #fff;
 
   text-decoration: none;
   font-size: 2rem;
@@ -177,6 +183,11 @@ strong {
 
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
+
+  /* Only when necessary for .btn */
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
 
   /* Put the transtion on the original state */
   /* transition: background-color 0.3s; */
@@ -207,6 +218,18 @@ strong {
   /* Trick to add border inside
   inset is to add the box shadow inside the border */
   box-shadow: inset 0 0 0 3px #fff;
+}
+
+.btn--form {
+  background-color: #45260a;
+  color: #fdf2e9;
+  align-self: end;
+  padding: 1.2rem;
+}
+
+.btn--form:hover {
+  background-color: #fff;
+  color: #555;
 }
 
 .link:link,
@@ -243,6 +266,13 @@ strong {
   height: 3rem;
   width: 3rem;
   color: #e67e22;
+}
+
+*:focus {
+  outline: none;
+  /* outline: 4px dotted;
+  outline-offset: 8px; */
+  box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.508);
 }
 
 /* HELPER/SETTINGS CLASSES */
