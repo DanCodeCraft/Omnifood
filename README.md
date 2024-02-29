@@ -8,6 +8,7 @@ day 5 - Testimonial section
         Added effects to the images in gallery
 day 6 - Pricing section added
         Features section
+        Started the form
 
 # Omnifood
 
