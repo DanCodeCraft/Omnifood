@@ -9,6 +9,8 @@ day 5 - Testimonial section
 day 6 - Pricing section added
         Features section
         Started the form
+        day 7 - footer
+                Web version done
 
 # Omnifood
 
