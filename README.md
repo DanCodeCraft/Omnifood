@@ -13,9 +13,8 @@ day 7 - footer
         Web version done
 day 8 - Added burger menu for mobile
         Optmized for tablets and small tablets
+
         
-
-
 # Omnifood
 
 ## About Omnifood
