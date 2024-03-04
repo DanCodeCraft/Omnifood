@@ -14,6 +14,8 @@ day 7 - footer
 day 8 - Added burger menu for mobile
         Optmized for tablets and small tablets
 day 9 - Optmized for Smartphones
+        Added JS for smooth scrolling on Safari
+        Made a sticky bar navigation
 
         
 # Omnifood
