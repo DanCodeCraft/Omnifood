@@ -4,11 +4,11 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+  - [Screenshots](#screenshots)
 
 ## Overview
 
@@ -21,13 +21,7 @@ Users should be able to:
 - Create a subscription to the product
 - Select the desired plan
 - Check the hover effects
-- Website is optmized for desktop and all sizes of mobile
-
-### Screenshot
-
-![](./Omnifood-Desktop/Screenshots/omniFoodHeroSection.png)
-![](./Omnifood-Desktop/Screenshots/omniFoodZFlow.png)
-![](./Omnifood-Desktop/Screenshots/omnifoodMobileMenu.png)
+- Website is optimized for desktop and all sizes of mobile
 
 ### Links
 
@@ -36,7 +30,7 @@ Users should be able to:
 
 ## My process
 
-- I took a destop-first approach as the mobile design wasn't provided
+- I took a desktop-first approach as the mobile design wasn't provided
 - Wrote the HTML section by section
 - Stylized the CSS after each section was created
 - Adapted as I progressed
@@ -58,3 +52,9 @@ Users should be able to:
 - Website - [LinkedIn](https://www.linkedin.com/in/adannjacinto/)
 - Frontend Mentor - [@DanCodeCraft](https://www.frontendmentor.io/profile/DanCodeCraft)
 - Twitter - [@DanCodeCraft](https://www.twitter.com/DanCodeCraft)
+
+### Screenshots
+
+![](./Omnifood-Desktop/Screenshots/omniFoodHeroSection.png)
+![](./Omnifood-Desktop/Screenshots/omniFoodZFlow.png)
+![](./Omnifood-Desktop/Screenshots/omnifoodMobileMenu.png)
