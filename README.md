@@ -1,3 +1,5 @@
+Live project: https://omnifood-dancodecraft.netlify.app/
+
 # Omnifood - Never cook again!
 
 ## Table of contents
